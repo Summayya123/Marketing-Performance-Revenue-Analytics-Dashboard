@@ -1,0 +1,2 @@
+# Marketing-Performance-Revenue-Analytics-Dashboard
+This project is an end-to-end Marketing Performance Dashboard built in Power BI to track revenue, marketing spend efficiency, traffic performance, and campaign impact across segments, SKUs, and time periods.  The objective was to help marketing and business teams evaluate ROI, optimize budget allocation, and monitor KPI performance against targets.
