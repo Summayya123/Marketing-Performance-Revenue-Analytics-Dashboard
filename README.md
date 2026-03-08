@@ -24,5 +24,9 @@ Shows how much revenue is spent on marketing.
 - CPC (Cost Per Click)
 - Unit Sold vs Online Spend
 - Marketing Spend Trend
+# Dashboard 
+<a href="https://github.com/Summayya123/Marketing-Performance-Revenue-Analytics-Dashboard/blob/main/Marketing%20and%20Revenue%20Performance%20Dashboard.PNG"> Dashboard </a>
+# Final Conclusion 
+This project provides a clear view of marketing performance through key KPIs and interactive visuals.It helps track revenue generation, marketing costs, and customer engagement across campaigns.Target and variance analysis highlights whether business goals are being achieved.The dashboard enables better insights to support effective marketing planning and decision-making.
 
   
