@@ -27,6 +27,6 @@ Shows how much revenue is spent on marketing.
 # Dashboard 
 <a href="https://github.com/Summayya123/Marketing-Performance-Revenue-Analytics-Dashboard/blob/main/Marketing%20and%20Revenue%20Performance%20Dashboard.PNG"> Dashboard </a>
 # Final Conclusion 
-This project provides a clear view of marketing performance through key KPIs and interactive visuals.It helps track revenue generation, marketing costs, and customer engagement across campaigns.Target and variance analysis highlights whether business goals are being achieved.The dashboard enables better insights to support effective marketing planning and decision-making.
+This project gives a clear view of how our marketing campaigns are performing. It shows important KPIs and visuals that help us understand the overall performance. We start by looking at Impressions to see how many people saw the campaigns and how wide our reach is. Then we check Traffic and Click-Through Rate (CTR) to understand how many people actually engaged with the campaigns. After that, we look at Cost Per Click (CPC) and Marketing Spend to see how much we are spending to bring that engagement. Finally, we connect everything to Revenue to understand the real business impact of the marketing efforts. The dashboard also includes target and variance analysis, which helps us see whether we are meeting our business goals and supports better marketing planning and decision-making.
 
   
